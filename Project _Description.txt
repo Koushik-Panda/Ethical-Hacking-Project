@@ -1,0 +1,28 @@
+Understand Ethical Hacking to Gain Access
+to a Victim’s Machine
+Course-end Project
+
+
+Objectives
+This project is designed to help understand ethical hacking to gain access to a victim’s machine.
+
+Problem Statement and Motivation
+Scenario:
+An organization called CardPerso breached the production environment, and PII or PCI data is now available on the darknet. The CISO wants to know how personally identifiable information (PII) and PCI data kept on the network could be stolen or how server downtime could interfere with card creation. Under a legal contract, the organization hired a firm to perform ethical hacking.
+
+Industry Relevance
+•
+Ethical Hacking: Cybercriminals (also known as malicious hackers) look for network weaknesses to attack in the more well-known unlawful counterpart of ethical hacking.
+•
+Reconnaissance & Footprinting: Reconnaissance, a more comprehensive approach, includes footprinting. The information-gathering phase of ethical hacking is known as reconnaissance, during which you gather information about the intended system.
+•
+Vulnerabilities and Exploit: A security vulnerability is a software code defect or a system configuration error that allows attackers to gain direct access to a system or network without authorization. As soon as they are inside, the attacker can use their privileges and authorizations to compromise systems and assets. The method through which hackers launch an attack using a vulnerability is known as an exploit.
+
+Task (Activities)
+1. Gather information using Network and host-based reconnaissance
+2. Create payload
+3. Encrypt payload
+4. Gain access to Windows 7
+
+This project is designed to help understand performing ethical hacking to exploit vulnerabilities.
+In this project, you should be able to command and conquer the victim’s machine using ethical hacking methodologies.
